@@ -17,7 +17,7 @@
 ## Connect with me
 <img width="20" src="https://www.svgrepo.com/show/353655/discord-icon.svg" /> eclipse.241
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeclipse" alt="deeclipse" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="github-profile-trophy.vercel.app/?username=deeclipse" alt="deeclipse" /></a> </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=deeclipse)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
