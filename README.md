@@ -1,4 +1,5 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="center"><img width="30%" src="https://github.com/user-attachments/assets/164b4a54-e335-4724-a1f9-87371618907f" alt="lang image"/></p>
+
 
 <p align="center">I'm deeclipse, a Software-Engineer.</p>
 
